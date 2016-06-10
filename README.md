@@ -7,6 +7,6 @@
 	 * Tİmer_stop	        :   0.7156281471 sec. 
 	 */
 
-Example
-See example.php for usage.
+Example<br>
+See example.php for usage.<br>
 List =>  upchars,alphamet,alphabetNum,mixalphabetNum and ALLchar
